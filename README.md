@@ -45,5 +45,5 @@ clusters with varying densities, proposed by Ye Zhu, Kai Ming Ting, and Maia Ang
 <!-- CONTACT -->
 ## Contact
 
-Dr Ye Zhu - email@example.com
+Dr ***** - email@example.com
 
